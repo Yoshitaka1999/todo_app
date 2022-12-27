@@ -1,0 +1,68 @@
+{
+    "todoLists": [
+        { 
+            "title": "勉強",
+            "id": 1,
+            "taskLists": [
+                {
+                    "id": 1,
+                    "title": "コーディング",
+                    "done": false
+                },
+                {
+                    "id": 2,
+                    "title": "udemy",
+                    "done": false
+                },
+                {
+                    "id": 3,
+                    "title": "英語",
+                    "done": false
+                }
+            ]
+        },
+        { 
+            "title": "読書",
+            "id": 2,
+            "taskLists": [
+                {
+                    "id": 1,
+                    "title": "小説",
+                    "done": false
+                },
+                {
+                    "id": 2,
+                    "title": "評論文",
+                    "done": false
+                },
+                {
+                    "id": 3,
+                    "title": "漢文",
+                    "done": false
+                }
+            ]
+        },
+        { 
+            "title": "遊び",
+            "id": 3,
+            "taskLists": [
+                {
+                    "id": 1,
+                    "title": "ランチ",
+                    "done": false
+                },
+                {
+                    "id": 2,
+                    "title": "ドライブ",
+                    "done": false
+                },
+                {
+                    "id": 3,
+                    "title": "カラオケ",
+                    "done": false
+                }
+            ]
+        }
+
+    ]
+}
